@@ -44,7 +44,7 @@ _partial mobile responsive styling_; <br>
 ##Models:
 
 ![Image of modules]
-(https://trello-attachments.s3.amazonaws.com/5582aa80a98729ab671151e2/2246x1178/45cb93d5c68826ec1e6a26b2d5e37cc7/Screen_Shot_2015-06-18_at_12.26.04.pngc)
+(https://trello-attachments.s3.amazonaws.com/5582aa80a98729ab671151e2/2246x1178/45cb93d5c68826ec1e6a26b2d5e37cc7/Screen_Shot_2015-06-18_at_12.26.04.png)
 
 ##Wireframes:
 
